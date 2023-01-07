@@ -2,6 +2,7 @@
 .main-container {
     margin: auto;
     /* background: rgb(243, 235, 235); */
+    padding: 0;
 
 
 }
@@ -14,6 +15,8 @@
     background-position: center;
     width: 1600px;
     margin: auto;
+    background-size: cover;
+    margin-top: -60px;
 
 
     /* background: red; */
