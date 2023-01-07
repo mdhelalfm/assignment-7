@@ -1,0 +1,310 @@
+/* main container */
+.main-container {
+    margin: auto;
+    /* background: rgb(243, 235, 235); */
+
+
+}
+
+.header-banner-image {
+    /* background: blanchedalmond; */
+    height: 808px;
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1600px;
+    margin: auto;
+
+
+    /* background: red; */
+    /* border: red solid 2px; */
+}
+
+.banner-heading {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: white;
+    padding-right: 230px;
+    padding-top: 230px;
+    margin-left: 845px;
+}
+
+.banner-description {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    text-align: right;
+    margin-top: 24px;
+    padding-right: 230px;
+    margin-left: 876px;
+}
+
+.banner-btn {
+    height: 64px;
+    background: white;
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 1210px;
+    width: 160px;
+    margin-top: 32px;
+    border: none;
+}
+
+
+/* Helal profile */
+
+.section1-helal {
+    width: 1072px;
+    height: 723.3px;
+    /* background: gray; */
+    margin: auto;
+    margin-top: 131px;
+    display: flex;
+    gap: 90px;
+
+}
+
+.helal-iamge {
+    background-image: url(../images/helal.png);
+    width: 569px;
+    height: 723.3px;
+}
+
+.helal-title {
+    margin-top: 200px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    width: 416px;
+    height: 400px;
+    color: #444343;
+
+}
+
+.helal-description {
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    margin-top: -50px;
+    color: #444343;
+    text-align: left;
+
+}
+
+/*  <!-- section My failures of my previous year --> */
+
+.section2-container {
+    width: 1072px;
+    height: 723.3px;
+    /* background: gray; */
+    margin: auto;
+    margin-top: 131px;
+    display: flex;
+    gap: 90px;
+}
+
+.my-failur-image {
+    background-image: url(../images/person.png);
+    width: 569px;
+    height: 723.3px;
+
+}
+
+.section2-title {
+    margin-top: 200px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    width: 416px;
+    height: 400px;
+    color: #444343;
+
+}
+
+.section-myfailur-descripton {
+    font-style: normal;
+    font-weight: 400px;
+    font-size: 16px;
+    margin-bottom: 50px;
+    color: #444343;
+
+
+}
+
+.section-myfailur-descripton li {
+    margin-bottom: 12px;
+}
+
+.my-plan {
+    margin: auto;
+    text-align: center;
+    margin-top: 130px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+/* section 3 style */
+
+.section3 {
+    width: 1141px;
+    height: 202.96px;
+    /* background: gold; */
+    margin: auto;
+    margin-top: 50px;
+
+
+}
+
+.section3-container {
+    display: flex;
+    gap: 50px;
+    align-items: right;
+
+}
+
+.icon {
+    margin-left: 85px;
+
+}
+
+.icon h1,
+p {
+    text-align: center;
+}
+
+/* section 4 image gradient */
+
+.section4-gradient {
+    width: 1140px;
+    height: 300px;
+    /* background: gold; */
+    margin: auto;
+    margin-top: 50px;
+}
+
+.section-4 {
+    background-image: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),
+        url(../images/watch.png);
+    width: 1140px;
+    height: 300px;
+}
+
+.gradient-banner-title {
+    /* background: rebeccapurple; */
+    width: 459px;
+    height: 182px;
+    padding-top: 40px;
+    padding-left: 65px;
+
+    margin-right: 617px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+
+}
+
+.call-now-btn {
+    background: white;
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    margin-right: 916px;
+    border: none;
+    width: 160px;
+    height: 64px;
+    margin-left: 65px;
+}
+
+/* footer area style */
+.footer-container {
+    display: flex;
+    gap: 50px;
+}
+
+.footer-area {
+    margin: auto;
+    width: 1600px;
+    height: 577px;
+    background: #151414;
+    margin-top: 130px;
+    align-items: center;
+}
+
+
+
+
+
+.box1 {
+    width: 485px;
+    height: 317px;
+    /* background: red; */
+    margin-left: 220px;
+    margin-top: 130px;
+
+}
+
+.box2 {
+    width: 325px;
+    height: 204px;
+    /* background: rgb(243, 46, 11); */
+    margin-left: 330px;
+    margin-top: 130px;
+
+}
+
+.box2 h4 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+
+}
+
+.box2 input {
+    width: 325px;
+    height: 64px;
+    border: 1px solid white;
+    border-radius: 5px;
+    background: none;
+    padding-left: 20px;
+}
+
+.box2 button {
+    width: 170.11px;
+    height: 64px;
+    border-radius: 5px;
+    margin-top: 15px;
+    background: #005FAC;
+    border: none;
+    padding-right: 10px;
+
+
+
+}
+
+.box1 h3 {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+}
+
+.box1 p {
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    color: white;
+    text-align: left;
+}
